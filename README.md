@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Maharah](#)
 - 🌱 I’m currently working with [Angular](https://www.angular.io/), [ionic](https://ionicframework.com/) && [ASPcore](https://docs.microsoft.com/en-us/aspnet/core/).
-- 🌱 I’m currently learing  [Flutter](https://flutter.dev/)
 - 💻 I love building side projects -
 - 📫 How to reach me: [@Comrade96](https://twitter.com/Comrade96)
 - ⚡ Simplicity always wins
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Maharah](#)
 - 🌱 I’m currently working with [Angular](https://www.angular.io/), [ionic](https://ionicframework.com/) && [ASPcore](https://docs.microsoft.com/en-us/aspnet/core/).
-- 🌱 I’m currently learing  [Flutter](https://flutter.dev/)
 - 💻 I love building side projects -
 - 📫 How to reach me: [@Comrade96](https://twitter.com/Comrade96)
 - ⚡ Simplicity always wins
