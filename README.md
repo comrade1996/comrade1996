@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--
 ### Hi there I'm Omair  👋
 
-- 🔭 I’m currently working on [Maharah](#)
+- 🔭 I’m currently working on [TNC](#)
 - 🌱 I’m currently working with [Angular](https://www.angular.io/), [ionic](https://ionicframework.com/) && [ASPcore](https://docs.microsoft.com/en-us/aspnet/core/).
 - 💻 I love building side projects -
 - 📫 How to reach me: [@Comrade96](https://twitter.com/Comrade96)
