@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Omair</h1>
-<h3 align="center">A passionate Software engineer from Sudan</h3>
+<h3 align="center">A passionate Software engineer</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/comrade96" target="blank"><img src="https://img.shields.io/twitter/follow/comrade96?logo=twitter&style=for-the-badge" alt="comrade96" /></a> </p>
 
-- 🔭 I’m currently working on [Abu Dhabi Ports](https://www.adports.ae/)
+- 🔭 I’m currently working on [Abu Dhabi Civil Defense](https://www.adcda.gov.ae/en)
 - 🌱 I’m currently working with [Angular](https://www.angular.io/), [ionic](https://ionicframework.com/) && [ASPcore](https://docs.microsoft.com/en-us/aspnet/core/).
 - 💻 I love building side projects -
 - 📫 How to reach me: [@Comrade96](https://twitter.com/Comrade96)
