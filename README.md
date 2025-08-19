@@ -4,6 +4,7 @@
   
   <p>
     <em>Building secure, scalable enterprise solutions across web,  cloud platforms</em>
+    <em>لو أن الناس كلما استصعبوا أمرا تركوه ماقام للناس دنيا ولا دين .</em>
   </p>
 
   <a href="https://twitter.com/comrade96">
@@ -27,8 +28,7 @@ I'm a passionate **Full-Stack Developer** with **5+ years** of experience buildi
 - 🌱 Exploring **AI integration** with local LLMs and advanced DevOps practices
 - 🏆 **Award Winner**: Best Development Project at Abu Dhabi Civil Defense Excellence Awards 2024
 - 🏆 **Recognition**: Smart Ambulance Systems honored by Dubai Quality Group
-- 💻 Love building **side projects** that solve real-world problems
-- ⚡ **Philosophy**: لو أن الناس كلما استصعبوا أمرا تركوه ماقام للناس دنيا ولا دين .
+- 💻 Love building **side projects** that solve real-world problems 
 
 ---
 
@@ -107,7 +107,6 @@ I'm a passionate **Full-Stack Developer** with **5+ years** of experience buildi
 
 ---
 
-<div align="center">
-  <p><em>"لو أن الناس كلما استصعبوا أمرا تركوه ماقام للناس دنيا ولا دين ."</em></p>
+<div align="center"> 
   <p>📍 Abu Dhabi, UAE | 🗣️ English & Arabic</p>
 </div>
