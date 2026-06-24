@@ -30,15 +30,12 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Software+Developer+with+6%2B+years+of+experience;Building+secure%2C+reliable%2C+scalable+enterprise+systems;.NET+%7C+Blazor+%7C+Angular+%7C+SQL+Server+%7C+Azure+DevOps;Air-gapped+systems+%7C+Offline-first+apps+%7C+Local+AI+features;Mission-critical+software+for+real-world+operations;Friendly+developer+by+day%2C+CODM+operator+by+night" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Software+Developer+with+6%2B+years+of+experience;Building+secure%2C+reliable%2C+scalable+enterprise+systems;.NET+%7C+Blazor+%7C+Angular+%7C+SQL+Server+%7C+Azure+DevOps;Air-gapped+systems+%7C+Offline-first+apps+%7C+Local+AI+features;Mission-critical+software+for+real-world+operations;Software+engineer%2C+strategy+gamer%2C+friendly+teammate" alt="Typing SVG" />
 
 <br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=comrade1996&style=for-the-badge&color=7C3AED" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/comrade1996?style=for-the-badge&logo=github&color=1D4ED8" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/comrade1996?style=for-the-badge&logo=github&color=F59E0B" alt="GitHub Stars" />
-<img src="https://img.shields.io/badge/Gamer-CODM%20%7C%20Crash%20Bandicoot%20%7C%20ARC%20Raiders-9333EA?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming Badge" />
 
 <br/>
 <br/>
@@ -121,7 +118,7 @@ Focus       : Air-gapped systems, offline-first apps,
 <a href="#-engineering-strengths">Strengths</a> •
 <a href="#-experience">Experience</a> •
 <a href="#-awards--recognition">Awards</a> •
-<a href="#-github-analytics">GitHub Analytics</a> •
+<a href="#-come-game-with-me">Gaming</a> •
 <a href="#-contact">Contact</a>
 
 </div>
@@ -570,62 +567,8 @@ timeline
 </tr>
 </table>
 
----
 
-<div align="center">
 
-# 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=comrade1996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=comrade1996&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-<br/>
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comrade1996&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-
-<br/>
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=comrade1996&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=comrade1996&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ Dynamic Mode
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrade1996&theme=tokyonight" alt="Profile Details" />
-
-<br/>
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=comrade1996&theme=tokyonight" alt="Repos per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=comrade1996&theme=tokyonight" alt="Most Commit Language" />
-
-<br/>
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=comrade1996&theme=tokyonight" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrade1996&theme=tokyonight&utcOffset=4" alt="Productive Time" />
-
-</div>
 
 ---
 
@@ -661,51 +604,60 @@ Reliable applications that continue working across isolated or unstable network 
 </tr>
 </table>
 
+
 ---
 
 <div align="center">
 
-# 🎮 Fun Mode: After Deploy
+# 🎮 Come Game With Me
 
 </div>
 
+<div align="center">
+
+I’m not only into coding — I also enjoy strategy and classic games.
+
+**If you want, feel free to contact me for playing too, not only coding.**
+
+</div>
+
+<br/>
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center" valign="top">
+<a href="https://store.steampowered.com/app/287450/Rise_of_Nations_Extended_Edition/">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287450/header.jpg" alt="Rise of Nations" width="100%" />
+</a>
 
-### 🔫 CODM Operator Mode
-
-When production is stable, I switch from **debugging APIs** to **dropping into Call of Duty: Mobile**.
-
-- Main mission: survive the lobby
-- Side mission: blame the ping
-- Favorite strategy: push confidently, regret instantly
-- Developer excuse: "It worked on my device"
-
+### 🏛️ Rise of Nations
+Build fast, expand smarter, and pretend the economy is under control.
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center" valign="top">
+<a href="https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg" alt="Age of Empires" width="100%" />
+</a>
 
-### 🦊 Crash Bandicoot Energy
-
-My coding style sometimes has full **Crash Bandicoot** energy:
-
-- Jump over bugs
-- Spin through errors
-- Collect requirements like Wumpa fruit
-- Fall once, respawn, fix it better
-
+### 🏰 Age of Empires
+A little bit of history, a lot of villagers, and one more “just one last match”.
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://store.steampowered.com/app/40970/Stronghold_Crusader_HD/">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40970/header.jpg" alt="Stronghold Crusader" width="100%" />
+</a>
 
-### 🚀 ARC Raiders Mindset
+### 🏹 Stronghold Crusader
+Bread, archers, walls, and absolutely no mercy for weak defenses.
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg" alt="Total War" width="100%" />
+</a>
 
-In **ARC Raiders** mode, I treat every system like a squad mission:
-
-- Watch the environment
-- Support the team
-- Extract cleanly
-- Never leave logs behind
-
+### ⚔️ Total War
+Big maps, bigger armies, and the classic “this battle will be easy” mistake.
 </td>
 </tr>
 </table>
@@ -713,50 +665,17 @@ In **ARC Raiders** mode, I treat every system like a squad mission:
 <div align="center">
 
 ```text
-Developer Loadout
+Gaming Side Quest
 ────────────────────────────────────────
-Primary Weapon   : .NET + Angular
-Secondary        : Blazor + SQL Server
-Tactical         : Debugger
-Lethal           : Bad requirements detector
-Perk 1           : Offline-first thinking
-Perk 2           : Air-gapped survival
-Ultimate         : Deploy without panic
-Weakness         : "Small change" requests
+Favorite vibe   : Strategy, war, planning, and chaos
+Games           : Rise of Nations, Total War,
+                  Age of Empires, Stronghold Crusader
+Play style      : Build first, attack later, panic anyway
+Multiplayer     : Yes
+Open invite     : Come game with me 🎮
 ```
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🕹️ Gaming Personality
-
-- I play like a developer: analyze, retry, optimize, repeat.
-- I debug games the same way I debug systems: first blame the network, then check the logs.
-- I believe every hard level is just a badly documented requirement.
-- I enjoy games that need focus, timing, teamwork, and a little chaos.
-
-</td>
-<td width="50%" valign="top">
-
-## 😄 Friendly Patch Notes
-
-```text
-Omair vNext
-────────────────────────────────────────
-+ Added more coffee resistance
-+ Improved bug detection radius
-+ Increased patience during deployments
-+ Buffed teamwork and communication
-+ Reduced fear of legacy code
-- Still vulnerable to unexpected production issues
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -785,7 +704,8 @@ Omair vNext
 
 ### 📍 Abu Dhabi, United Arab Emirates  
 ### 💻 Building secure, scalable, real-world software  
-### 🗣️ Arabic Native | English Professional Working Proficiency
+### 🗣️ Arabic Native | English Professional Working Proficiency  
+### 🎮 Feel free to contact me for playing too — not only coding
 
 <br/>
 
