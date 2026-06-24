@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Software+Developer+with+6%2B+years+of+experience;Building+secure%2C+reliable%2C+scalable+enterprise+systems;.NET+%7C+Blazor+%7C+Angular+%7C+SQL+Server+%7C+Azure+DevOps;Air-gapped+systems+%7C+Offline-first+apps+%7C+Local+AI+features;Mission-critical+software+for+real-world+operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Software+Developer+with+6%2B+years+of+experience;Building+secure%2C+reliable%2C+scalable+enterprise+systems;.NET+%7C+Blazor+%7C+Angular+%7C+SQL+Server+%7C+Azure+DevOps;Air-gapped+systems+%7C+Offline-first+apps+%7C+Local+AI+features;Mission-critical+software+for+real-world+operations;Friendly+developer+by+day%2C+CODM+operator+by+night" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -38,6 +38,7 @@
 <img src="https://komarev.com/ghpvc/?username=comrade1996&style=for-the-badge&color=7C3AED" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/comrade1996?style=for-the-badge&logo=github&color=1D4ED8" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/stars/comrade1996?style=for-the-badge&logo=github&color=F59E0B" alt="GitHub Stars" />
+<img src="https://img.shields.io/badge/Gamer-CODM%20%7C%20Crash%20Bandicoot%20%7C%20ARC%20Raiders-9333EA?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming Badge" />
 
 <br/>
 <br/>
@@ -655,6 +656,103 @@ Clean module boundaries, scalable APIs, integration platforms, and maintainable 
 ### Offline-first Systems
 
 Reliable applications that continue working across isolated or unstable network environments.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🎮 Fun Mode: After Deploy
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔫 CODM Operator Mode
+
+When production is stable, I switch from **debugging APIs** to **dropping into Call of Duty: Mobile**.
+
+- Main mission: survive the lobby
+- Side mission: blame the ping
+- Favorite strategy: push confidently, regret instantly
+- Developer excuse: "It worked on my device"
+
+</td>
+<td width="33%" align="center">
+
+### 🦊 Crash Bandicoot Energy
+
+My coding style sometimes has full **Crash Bandicoot** energy:
+
+- Jump over bugs
+- Spin through errors
+- Collect requirements like Wumpa fruit
+- Fall once, respawn, fix it better
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 ARC Raiders Mindset
+
+In **ARC Raiders** mode, I treat every system like a squad mission:
+
+- Watch the environment
+- Support the team
+- Extract cleanly
+- Never leave logs behind
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```text
+Developer Loadout
+────────────────────────────────────────
+Primary Weapon   : .NET + Angular
+Secondary        : Blazor + SQL Server
+Tactical         : Debugger
+Lethal           : Bad requirements detector
+Perk 1           : Offline-first thinking
+Perk 2           : Air-gapped survival
+Ultimate         : Deploy without panic
+Weakness         : "Small change" requests
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🕹️ Gaming Personality
+
+- I play like a developer: analyze, retry, optimize, repeat.
+- I debug games the same way I debug systems: first blame the network, then check the logs.
+- I believe every hard level is just a badly documented requirement.
+- I enjoy games that need focus, timing, teamwork, and a little chaos.
+
+</td>
+<td width="50%" valign="top">
+
+## 😄 Friendly Patch Notes
+
+```text
+Omair vNext
+────────────────────────────────────────
++ Added more coffee resistance
++ Improved bug detection radius
++ Increased patience during deployments
++ Buffed teamwork and communication
++ Reduced fear of legacy code
+- Still vulnerable to unexpected production issues
+```
 
 </td>
 </tr>
