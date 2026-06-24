@@ -66,6 +66,8 @@ I have **6+ years of experience** building secure, reliable, and scalable softwa
 
 Currently, I work at **Abu Dhabi Civil Defence Authority**, where I build secure, air-gapped systems for **prehospital operations, ambulance crews, command teams, healthcare workflows, billing systems, and internal digital transformation platforms**.
 
+I am also currently pursuing my **Master's in AI / Artificial Intelligence**, expanding my focus in intelligent systems, applied AI, and real-world AI integration.
+
 I build software that is:
 
 - 🔐 Secure by design
@@ -97,6 +99,8 @@ Delivery    : Azure DevOps, CI/CD, Git, Cypress E2E,
 
 Focus       : Air-gapped systems, offline-first apps,
               enterprise integrations, local AI features
+
+Current Study : Master's in AI / Artificial Intelligence
 ```
 
 </td>
@@ -192,7 +196,7 @@ CI/CD pipelines, Azure DevOps, Git workflows, Cypress testing, and production-re
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python" alt="Backend Skills" />
 
 <br/>
 <br/>
@@ -410,9 +414,9 @@ Azure DevOps, CI/CD, Git, Cypress E2E, ESLint, Agile delivery, and production su
 <tr>
 <td width="50%" align="center">
 
-### Master of Science in Software Engineering
+### Master's in AI / Artificial Intelligence
 
-**Al-Neelain University**
+**Currently Pursuing**
 
 </td>
 <td width="50%" align="center">
@@ -584,7 +588,7 @@ timeline
 
 ### Local AI
 
-Secure local LLMs, Ollama, private AI workflows, and internal assistant systems.
+Secure local LLMs, Ollama, private AI workflows, internal assistant systems, and AI learning through my current master's studies.
 
 </td>
 <td width="33%" align="center">
@@ -609,15 +613,15 @@ Reliable applications that continue working across isolated or unstable network 
 
 <div align="center">
 
-# 🎮 Come Game With Me
+# 🎮🕹️ Come Game With Me
 
 </div>
 
 <div align="center">
 
-I also enjoy strategy and classic games.
+I’m not only into coding — I also enjoy strategy and classic games.
 
-**If you want, feel free to contact me for playing too.**
+**If you want, feel free to contact me for playing too, not only coding.**
 
 </div>
 
@@ -705,6 +709,7 @@ Open invite     : Come game with me 🎮
 ### 📍 Abu Dhabi, United Arab Emirates  
 ### 💻 Building secure, scalable, real-world software  
 ### 🗣️ Arabic Native | English Professional Working Proficiency  
+### 🎮 Feel free to contact me for playing too — not only coding
 
 <br/>
 
