@@ -194,7 +194,7 @@ CI/CD pipelines, Azure DevOps, Git workflows, Cypress testing, and production-re
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs" alt="Backend Skills" />
 
 <br/>
 <br/>
