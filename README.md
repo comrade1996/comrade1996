@@ -617,7 +617,7 @@ Reliable applications that continue working across isolated or unstable network 
 
 I’m not only into coding — I also enjoy strategy and classic games.
 
-**If you want, feel free to contact me for playing too, not only coding.**
+**If you want, feel free to contact me for playing too.**
 
 </div>
 
