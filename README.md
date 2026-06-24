@@ -615,7 +615,7 @@ Reliable applications that continue working across isolated or unstable network 
 
 <div align="center">
 
-I’m not only into coding — I also enjoy strategy and classic games.
+I also enjoy strategy and classic games.
 
 **If you want, feel free to contact me for playing too.**
 
@@ -705,7 +705,6 @@ Open invite     : Come game with me 🎮
 ### 📍 Abu Dhabi, United Arab Emirates  
 ### 💻 Building secure, scalable, real-world software  
 ### 🗣️ Arabic Native | English Professional Working Proficiency  
-### 🎮 Feel free to contact me for playing too — not only coding
 
 <br/>
 
